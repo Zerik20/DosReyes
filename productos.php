@@ -28,14 +28,14 @@
                 </div>
                 <div class="col-md-4 text-center">
                     <a class="link-img-prod text-decoration-none" href="#prod2">
-                        <img class="img-port-prod w-75" src="img/mezcal2.png" alt="">
-                        <h4 class="text-white mt-3">Tobalá</h4>
+                        <img class="img-port-prod w-75" src="" alt="">
+                        <h4 class="text-white mt-3"></h4>
                     </a>
                 </div>
                 <div class="col-md-4 text-center">
                     <a class="link-img-prod text-decoration-none" href="#prod3">
                         <img class="img-port-prod w-75" src="img/mezcal3.png" alt="">
-                        <h4 class="text-white mt-3">Nombre</h4>
+                        <h4 class="text-white mt-3">Tobalá</h4>
                     </a>
                 </div>
             </div>
@@ -93,12 +93,12 @@
 
 <div id="prod2" class="row m-0 p-0 w-100">
     <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/bg-agave.jpg);">
-        <img class="img-prod-inf-img" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: 161px; z-index: 2; position: relative;">
+        <img class="img-prod-inf-img" src="img/mzkl2.png" alt="" style="margin-top: 135px; margin-left: 161px; z-index: 2; position: relative;">
     </div>
     <div class="col-md-8 sect-txt-calid bg-grey">
         <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de</h5>
         <h2 class="">Alta calidad</h2>
-        <img class="img-prod-inf-img-movil" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <img class="img-prod-inf-img-movil" src="img/mezcal3.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home2" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Características</button>
@@ -126,11 +126,11 @@
 </div>
 
 
-<div id="prod3" class="row m-0 p-0 w-100">
+<!--div id="prod3" class="row m-0 p-0 w-100">
     <div class="col-md-8 sect-txt-calid">
         <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de</h5>
         <h2 class="">Alta calidad</h2>
-        <img class="img-prod-inf-img-movil" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <img class="img-prod-inf-img-movil" src="img/mezcal3.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home3" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Características</button>
@@ -157,7 +157,7 @@
     <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/portada4.jpg);">
         <img class="" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px;">
     </div>
-</div>
+</!--div-->
 
 
 
