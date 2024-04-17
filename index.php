@@ -100,8 +100,6 @@
                     <h5 class="subtitulo">Sobre</h5>
                     <h2>Nosotros</h2>
                     <p>
-                        Entiendo, aquí tienes una versión revisada sin repetir tanto el nombre del mezcal:
-
                         ¡Bienvenidos a 2 Reyes! Somos una destilería artesanal de mezcal arraigada en el corazón de Oaxaca, México. Nuestra pasión por la autenticidad y la excelencia se refleja en cada botella que producimos.
                     </p>
                     <p>
@@ -127,17 +125,12 @@
             <p class="text-center">Explora nuestra colección de mezcales artesanales, donde la tradición se fusiona con la innovación para ofrecerte experiencias únicas en cada sorbo.</p>
             <a href="" class="btn text-center mb-5">Todos nuestros productos</a>
             <div class="row">
-                <div class="col-md-4 text-center">
+                <div class="col-md-6 text-center">
                     <img src="img/mezcal1.png" alt="">
                     <h4>Nombre</h4>
                     <a class="btn" href="#">Más información</a>
                 </div>
-                <div class="col-md-4 text-center">
-                    <img src="img/mezcal2.png" alt="">
-                    <h4>Nombre</h4>
-                    <a class="btn" href="#">Más información</a>
-                </div>
-                <div class="col-md-4 text-center">
+                <div class="col-md-6 text-center">
                     <img src="img/mezcal3.png" alt="">
                     <h4>Nombre</h4>
                     <a class="btn" href="#">Más información</a>

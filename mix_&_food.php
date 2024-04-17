@@ -276,6 +276,7 @@ sub { bottom: -.25em; }
 }
 
 .cf:after { clear: both; }
+
 .cf { *zoom: 1; }
 
 /*for all*/
