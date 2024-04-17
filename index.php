@@ -127,12 +127,12 @@
             <div class="row">
                 <div class="col-md-6 text-center">
                     <img src="img/mezcal1.png" alt="">
-                    <h4>Nombre</h4>
+                    <h4>Espadín</h4>
                     <a class="btn" href="#">Más información</a>
                 </div>
                 <div class="col-md-6 text-center">
                     <img src="img/mezcal3.png" alt="">
-                    <h4>Nombre</h4>
+                    <h4>Tobalá</h4>
                     <a class="btn" href="#">Más información</a>
                 </div>
             </div>
@@ -160,7 +160,7 @@
         <h5 class="subtitulo text-center text-white">¿Quieres más información?</h5>
         <h2 class="text-center">Contáctanos</h2>
         <p class="text-center">¿Listo para conectarte con nosotros? ¡Estamos aquí para escucharte! Envíanos un mensaje y te responderemos lo antes posible. ¡Esperamos saber de ti pronto!</p>
-        <a class="text-center btn2" href="">Ir a ontacto</a>
+        <a class="text-center btn2" href="">Ir a contacto</a>
     </div>
 </div>
 

@@ -14,7 +14,7 @@
                         <div class="navbar-nav">
                             <a class="nav-link mx-5 text-white active" aria-current="page" href="index.php">Nosotros</a>
                             <a class="nav-link mx-5 text-white" href="productos.php">Productos</a>
-                            <a class="nav-link mx-5 text-white" href="mix_&_food.php">Mix & Food</a>
+                            <!--a class="nav-link mx-5 text-white" href="mix_&_food.php">Mix & Food</!--a-->
                             <a class="nav-link mx-5 text-white" href="contacto.php">Contacto</a>
                         </div>
                     </div>

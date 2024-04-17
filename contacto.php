@@ -33,14 +33,14 @@
 
 
 
-        <form method='POST' action="enviar.php">
+        <form action="https://formsubmit.co/25f509882166613c0f4ff0fabd9ada2a" method="POST"">
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label text-white">Nombre:</label>
                 <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre Apellido">
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label text-white">Teléfono:</label>
-                <input type="text" class="form-control" name="telefono" id="telefono" placeholder="+52 1 999 193 4724">
+                <input type="text" class="form-control" name="telefono" id="telefono" placeholder="+52 999 123 45 67">
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label text-white">E-mail:</label>

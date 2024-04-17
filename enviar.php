@@ -8,7 +8,7 @@ $asunto = 'Formulario Rellenado';
 $email = $_POST['email'];
 $mensaje = "Nombre: " . $nombre . " Email: " . $email . " Teléfono: " . $telefono . " Mensaje:" . $_POST['mensaje'];
 
-if (mail('davidflorespool@gmail.com', $asunto, $mensaje)) {
+if (mail('erikaban14@gmail.com', $asunto, $mensaje)) {
     // Mensaje de correo enviado correctamente
     $mensaje_enviado = '<html>
                         

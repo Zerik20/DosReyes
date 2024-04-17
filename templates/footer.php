@@ -9,7 +9,7 @@
         <div class="mt-5 d-flex justify-content-center menu-footer">
             <a class="nav-link mx-5 text-white active" aria-current="page" href="#">Nosotros</a>
             <a class="nav-link mx-5 text-white" href="#">Productos</a>
-            <a class="nav-link mx-5 text-white" href="#">Mix & Food</a>
+            <!--a class="nav-link mx-5 text-white" href="#">Mix & Food</!--a-->
             <a class="nav-link mx-5 text-white" href="#">Contacto</a>
         </div>
     </div>
@@ -26,7 +26,7 @@
             </div>    
         </a>
         
-        <a href="#" class="text-decoration-none">
+        <a href="#https://wa.me/qr/A2KUZGHE2QEVN1" class="text-decoration-none">
             <div class="cont-icon-footer mx-3">
                 <i class="fab fa-whatsapp"></i>
             </div>    

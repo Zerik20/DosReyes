@@ -59,13 +59,13 @@
 
 <div id="prod1" class="row m-0 p-0 w-100">
     <div class="col-md-8 sect-txt-calid">
-        <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de</h5>
-        <h2 class="">Alta calidad</h2>
+        <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de alta calidad</h5>
+        <h2 class="">ESPADÍN</h2>
         <img class="img-prod-inf-img-movil" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Características</button>
-                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Catas</button>
+                <!--button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Catas</!--button-->
             </div>
         </nav>
         <div class="tab-content" id="nav-tabContent">
@@ -96,13 +96,13 @@
         <img class="img-prod-inf-img" src="img/mzkl2.png" alt="" style="margin-top: 135px; margin-left: 161px; z-index: 2; position: relative;">
     </div>
     <div class="col-md-8 sect-txt-calid bg-grey">
-        <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de</h5>
-        <h2 class="">Alta calidad</h2>
+        <h5 class="subtitulo" style="margin-top: 65px;">Un mezcal de alta calidad</h5>
+        <h2 class="">TOBALÁ</h2>
         <img class="img-prod-inf-img-movil" src="img/mezcal3.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home2" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Características</button>
-                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile2" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Catas</button>
+                <!--button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile2" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Catas</!--button-->
             </div>
         </nav>
         <div class="tab-content" id="nav-tabContent">
@@ -158,8 +158,6 @@
         <img class="" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px;">
     </div>
 </!--div-->
-
-
 
 <?php include('templates/footer.php'); ?>
 </body>
