@@ -123,17 +123,17 @@
             <h5 class="subtitulo text-center">Nuestros</h5>
             <h2 class="text-center">productos</h2>
             <p class="text-center">Explora nuestra colección de mezcales artesanales, donde la tradición se fusiona con la innovación para ofrecerte experiencias únicas en cada sorbo.</p>
-            <a href="" class="btn text-center mb-5">Todos nuestros productos</a>
+            <a href="productos.php" class="btn text-center mb-5">Todos nuestros productos</a>
             <div class="row">
                 <div class="col-md-6 text-center">
                     <img src="img/mezcal1.png" alt="">
                     <h4>Espadín</h4>
-                    <a class="btn" href="#">Más información</a>
+                    <a class="btn" href="contacto.php">Más información</a>
                 </div>
                 <div class="col-md-6 text-center">
                     <img src="img/mezcal3.png" alt="">
                     <h4>Tobalá</h4>
-                    <a class="btn" href="#">Más información</a>
+                    <a class="btn" href="contacto.php">Más información</a>
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@
         <h2 class="">Alta calidad</h2>
         <p>Sumérgete en la experiencia de un mezcal excepcional con nuestra colección de alta calidad. Cada botella representa la culminación de un proceso meticuloso, desde la selección de agaves premium hasta la destilación artesanal. </p>
         <p>Descubre el equilibrio perfecto entre tradición y perfección en cada sorbo de nuestro mezcal de alta calidad, una verdadera obra maestra de Oaxaca. ¡Salud!</p>
-        <a class="btn" href="">Más de nuestro producto</a>
+        <a class="btn" href="contacto.php">Más de nuestro producto</a>
     </div>
     <div class="col-md-6 bg-center" style="background-image: url(img/agave.jpg);">
     </div>
@@ -160,7 +160,7 @@
         <h5 class="subtitulo text-center text-white">¿Quieres más información?</h5>
         <h2 class="text-center">Contáctanos</h2>
         <p class="text-center">¿Listo para conectarte con nosotros? ¡Estamos aquí para escucharte! Envíanos un mensaje y te responderemos lo antes posible. ¡Esperamos saber de ti pronto!</p>
-        <a class="text-center btn2" href="">Ir a contacto</a>
+        <a class="text-center btn2" href="contacto.php">Ir a contacto</a>
     </div>
 </div>
 

@@ -33,7 +33,7 @@
                     </a>
                 </div>
                 <div class="col-md-4 text-center">
-                    <a class="link-img-prod text-decoration-none" href="#prod3">
+                    <a class="link-img-prod text-decoration-none" href="#prod2">
                         <img class="img-port-prod w-75" src="img/mezcal3.png" alt="">
                         <h4 class="text-white mt-3">Tobalá</h4>
                     </a>
@@ -83,7 +83,7 @@
             </div>
            
         </div>
-        <a class="btn" href="">Más de nuestro producto</a>
+        <a class="btn" href="contacto.php">Más de nuestro producto</a>
     </div>
     <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/portada4.jpg);">
         <img class="img-prod-inf-img" src="img/mzkl.png" alt="" style="margin-top: 135px; margin-left: -161px;">
@@ -120,7 +120,7 @@
             </div>
            
         </div>
-        <a class="btn" href="">Más de nuestro producto</a>
+        <a class="btn" href="contacto.php">Más de nuestro producto</a>
     </div>
     
 </div>

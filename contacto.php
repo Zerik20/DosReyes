@@ -35,19 +35,19 @@
 
         <form action="https://formsubmit.co/25f509882166613c0f4ff0fabd9ada2a" method="POST"">
             <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label text-white">Nombre:</label>
+                <label for="exampleFormControlInput1" class="form-label text-black">Nombre:</label>
                 <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre Apellido">
             </div>
             <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label text-white">Teléfono:</label>
+                <label for="exampleFormControlInput1" class="form-label text-black">Teléfono:</label>
                 <input type="text" class="form-control" name="telefono" id="telefono" placeholder="+52 999 123 45 67">
             </div>
             <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label text-white">E-mail:</label>
+                <label for="exampleFormControlInput1" class="form-label text-black">E-mail:</label>
                 <input type="email" class="form-control" name="email" id="email" placeholder="name@example.com">
             </div>
             <div class="mb-3">
-                <label for="exampleFormControlTextarea1" class="form-label text-white">Mensaje:</label>
+                <label for="exampleFormControlTextarea1" class="form-label text-black">Mensaje:</label>
                 <textarea class="form-control" name="mensaje" id="mensaje" rows="3"></textarea>
             </div>
             <button href="" type="submit" class="btn">ENVIAR</button>
