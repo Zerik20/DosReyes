@@ -7,10 +7,10 @@
             <p class="text-center text-white">CALIDAD DESTILADA EN CADA GOTA</p>
         </div>
         <div class="mt-5 d-flex justify-content-center menu-footer">
-            <a class="nav-link mx-5 text-white active" aria-current="page" href="#">Nosotros</a>
-            <a class="nav-link mx-5 text-white" href="#">Productos</a>
+            <a class="nav-link mx-5 text-white active" aria-current="page" href="#">NOSOTROS</a>
+            <a class="nav-link mx-5 text-white" href="#">PRODUCTOS</a>
             <!--a class="nav-link mx-5 text-white" href="#">Mix & Food</!--a-->
-            <a class="nav-link mx-5 text-white" href="#">Contacto</a>
+            <a class="nav-link mx-5 text-white" href="#">CONTACTO</a>
         </div>
     </div>
    <div class="iconos text-center d-flex justify-content-center my-5">
