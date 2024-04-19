@@ -40,7 +40,7 @@
         <div id="portada" class="bg-center" style="background-image: url(img/contacto.jpg);">
             <div class="py-5 overlayb d-flex justify-content-start align-items-end">
                 <div class="container ps-5">
-                    <h5 class="subtitulo">Calidad Destilada</h5>
+                    <h5 class="subtitulo">Calidad</h5>
                     <h2 class="text-white tit-slider" style="font-size: 57px;">en Cada Gota</h2>
                 </div>
                 

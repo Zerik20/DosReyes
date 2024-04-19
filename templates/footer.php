@@ -4,7 +4,7 @@
         <div class="border-bottom">
             <h4 class="text-center text-white oro">Mezcal Artesanal</h4>
             <h2 class="text-center text-white">Dos Reyes</h2>
-            <p class="text-center text-white">CALIDAD DESTILADA EN CADA GOTA</p>
+            <p class="text-center text-white">CALIDAD EN CADA GOTA</p>
         </div>
         <div class="mt-5 d-flex justify-content-center menu-footer">
             <a class="nav-link mx-5 text-white active" aria-current="page" href="#">NOSOTROS</a>
