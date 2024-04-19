@@ -12,10 +12,10 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                            <a class="nav-link mx-5 text-white active" aria-current="page" href="index.php">Nosotros</a>
-                            <a class="nav-link mx-5 text-white" href="productos.php">Productos</a>
+                            <a class="nav-link mx-5 text-white active" aria-current="page" href="index.php">NOSOTROS</a>
+                            <a class="nav-link mx-5 text-white" href="productos.php">PRODUCTOS</a>
                             <!--a class="nav-link mx-5 text-white" href="mix_&_food.php">Mix & Food</!--a-->
-                            <a class="nav-link mx-5 text-white" href="contacto.php">Contacto</a>
+                            <a class="nav-link mx-5 text-white" href="contacto.php">CONTACTO</a>
                         </div>
                     </div>
                 </div>

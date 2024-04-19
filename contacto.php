@@ -29,7 +29,7 @@
     <div class="col-md-6 sect-txt-calid bg-grey">
         <h5 class="subtitulo">Envíanos un</h5>
         <h2 class="">Correo</h2>
-        <p>¿Listo para conectarte con nosotros? ¡Estamos aquí para escucharte! Envíanos un mensaje y te responderemos lo antes posible. ¡Esperamos saber de ti pronto!</p>
+        <p style= "text-align: justify;">¿Listo para conectarte con nosotros? ¡Estamos aquí para escucharte! Envíanos un mensaje y te responderemos lo antes posible. ¡Esperamos saber de ti pronto!</p>
 
 
 
