@@ -29,7 +29,7 @@
         <div id="portada" class="bg-center" style="background-image: url(img/portada5.jpg);">
             <div class="py-5 overlayb d-flex justify-content-start align-items-end">
                 <div class="container ps-5">
-                    <h5 class="subtitulo">Descubre el Legado del</h5>
+                    <h5 class="subtitulo">Descubre el Legado</h5>
                     <h2 class="text-white tit-slider" style="font-size: 57px;">Mezcal <br> Artesanal</h2>
                 </div>
                 
