@@ -99,18 +99,23 @@
                 <div>
                     <h5 class="subtitulo">Sobre</h5>
                     <h2>Nosotros</h2>
+                    <p style= "text-align:center;">¡Bienvenidos a 2 Reyes!</p>
                     <p style= "text-align: justify;">
-                        ¡Bienvenidos a 2 Reyes! Somos una destilería artesanal de mezcal arraigada en el corazón de Oaxaca, México. Nuestra pasión por la autenticidad y la excelencia se refleja en cada botella que producimos.
+                        Somos una destilería de mezcal artesanal fundada en el corazón de Oaxaca, México. Nuestra pasión por la excelencia se refleja en cada gota de mezcal que producimos.
                     </p>
                     <p style= "text-align: justify;">
-                        En 2 Reyes, nos enorgullece nuestra conexión con la tierra y las tradiciones ancestrales de Oaxaca. Seleccionamos cuidadosamente agaves de la región y empleamos técnicas de destilación artesanal para crear un mezcal excepcional, capturando la esencia única de nuestra tierra.
+                        Nos enorgullece nuestra conexión con la tierra y las tradiciones ancestrales de Oaxaca y Mexico. 
                     </p>
                     <p style= "text-align: justify;">
-                        Cada paso de nuestro proceso, desde la cosecha del agave hasta el embotellado, está marcado por nuestro compromiso con la calidad y el respeto por la naturaleza. Colaboramos estrechamente con agricultores y artesanos locales, contribuyendo al desarrollo sostenible y fortaleciendo nuestras raíces culturales.
+                        Seleccionamos cuidadosamente agaves de la región y empleamos técnicas de destilación artesanal para crear un destilado excepcional, capturando la esencia única de nuestra tierra.
                     </p>
                     <p style= "text-align: justify;">
-                        Te invitamos a descubrir la magia de 2 Reyes, donde cada botella cuenta una historia de tradición, pasión y autenticidad. ¡Salud!
+                        Colaboramos estrechamente con agricultores y artesanos locales, contribuyendo al desarrollo sostenible y fortaleciendo nuestras raíces culturales.
                     </p>
+                    <p style= "text-align: justify;">
+                        Te invitamos a descubrir la magia ¡Salud
+                    </p>
+                    <p style= "text-align:center;">Atentamente Yolanda Taboada 3ª Genracion</p>
                 </div>
             </div>
         </div>
@@ -147,7 +152,7 @@
         <h5 class="subtitulo">Un mezcal de</h5>
         <h2 class="">Alta calidad</h2>
         <p style= "text-align: justify;">Sumérgete en la experiencia de un mezcal excepcional con nuestra colección de alta calidad. Cada botella representa la culminación de un proceso meticuloso, desde la selección de agaves premium hasta la destilación artesanal. </p>
-        <p style= "text-align: justify;">Descubre el equilibrio perfecto entre tradición y perfección en cada sorbo de nuestro mezcal de alta calidad, una verdadera obra maestra de Oaxaca. ¡Salud!</p>
+        <p style= "text-align: justify;">Descubre el equilibrio perfecto entre tradición y perfección en cada sorbo, una verdadera obra maestra de Oaxaca para el mundo . ¡Salud!</p>
         <a class="btn" href="contacto.php">Más de nuestro producto</a>
     </div>
     <div class="col-md-6 bg-center" style="background-image: url(img/agave.jpg);">
