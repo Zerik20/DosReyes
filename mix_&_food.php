@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style/stylemix.css">
     <title>Dos Reyes | Mix & food</title>
     <?php
     include('templates/link.php');
@@ -46,19 +47,19 @@
         </ul>
         <ul class="image-gallary">
             <li data-image-type="all,faciles">
-            <a class="text-center w-100" href="#Fixme" title="Image1">
-                <img class="w-100" src="img/NAKEDANDFAMOUS.png" alt="Image1">
+            <a class="text-center w-100" href="#Trago1" title="Image1">
+                <img class="w-100" src="img/Trago1.jpg" alt="Image1">
                 <div class="overlay">
-                <span class="title">NAKED AND FAMOUS</span>
+                <span class="title">Mojito con mezcal</span>
                 
                 </div>
             </a>
             </li>
             <li data-image-type="all,faciles">
-            <a class="text-center w-100" href="#Fixme" title="Image2">
-                <img class="w-100" src="img/NegroniEquivocado.png" alt="Image2">
+            <a class="text-center w-100" href="#Trago2" title="Image2">
+                <img class="w-100" src="img/Trago2.jpg" alt="Image2">
                 <div class="overlay">
-                <span class="title">Negroni Equivocado</span>
+                <span class="title">Mezcalini de Jamaica</span>
                 
                 </div>
             </a>
@@ -160,400 +161,87 @@
     </div>
     <!--container end-->
 </div>
+<div id="Trago1" class="row m-0 p-0 w-100">
+    <div class="col-md-8 sect-txt-calid">
+        <h5 class="subtitulo" style="margin-top: 65px;">Mojito</h5>
+        <h2 class="">con mezcal</h2>
+        <img class="img-prod-inf-img-movil" src="img/Trago1.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home3" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile3" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home3" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 3 cubos de hielo.</p></li><br>
+                    <li><p style="text-align: left;">• 45 mililitros mezcal blanco (de preferencia que sea de agave espadín)</p></li>
+                    <li><p style="text-align: left;">• 30 mililitros miel de agave</p></li>
+                    <li><p style="text-align: left;">• 6 piezas hojas de hierbabuena previamente lavadas y desinfectadas</p></li>
+                    <li><p style="text-align: left;">• 120 mililitros agua mineral</p></li>
+                    <li><p style="text-align: left;">• 15 mililitros jugo de limón</p></li>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile3" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li>
+                    <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li>
+                    <li><p style="text-align: left;">3. Agrega el mezcal y mezcla todo con ayuda de la cuchara.</p></li>
+                    <li><p style="text-align: left;">4. Rellena el vaso con el agua minera</p></li>
+                    <li><p style="text-align: left;">5. Decora con una rama de hierbabuena (opcional).</p></li>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    <div class="col-md-4 bg-center conte-img-prod" style="background-color:beige;">
+        <img class="" src="img/Trago1.jpg" alt="" style="margin-top: 135px; margin-left: -161px;">
+    </div>
+</div>
+<div id="Trago2" class="row m-0 p-0 w-100">
+    <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/bg-agave.jpg);">
+        <img class="img-prod-inf-img" src="img/Trago2.jpg" alt="" style="margin-top: 135px; margin-left: 35px; z-index: 2; position: relative;">
+    </div>
+    <div class="col-md-8 sect-txt-calid bg-grey">
+        <h5 class="subtitulo" style="margin-top: 65px;">Mezcalini</h5>
+        <h2 class="">de Jamaica</h2>
+        <img class="img-prod-inf-img-movil" src="img/Trago2.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home2" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile2" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home2" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 3 cubos de hielo.</p></li><br>
+                    <li><p style="text-align: left;">• 45 mililitros mezcal blanco (de preferencia que sea de agave espadín)</p></li>
+                    <li><p style="text-align: left;">• 30 mililitros miel de agave</p></li>
+                    <li><p style="text-align: left;">• 6 piezas hojas de hierbabuena previamente lavadas y desinfectadas</p></li>
+                    <li><p style="text-align: left;">• 120 mililitros agua mineral</p></li>
+                    <li><p style="text-align: left;">• 15 mililitros jugo de limón</p></li>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile2" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li>
+                    <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li>
+                    <li><p style="text-align: left;">3. Agrega el mezcal y mezcla todo con ayuda de la cuchara.</p></li>
+                    <li><p style="text-align: left;">4. Rellena el vaso con el agua minera</p></li>
+                    <li><p style="text-align: left;">5. Decora con una rama de hierbabuena (opcional).</p></li>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    
+</div>
 
 <div class="p-5"></div>
-
-<script>
-    var filter = document.querySelectorAll('.filter-item');
-var imageItem = document.querySelectorAll('.image-gallary li');
-
-filter.forEach(function(value,index){
-    value.addEventListener("click", function(){
-        elementData = value.dataset.imageType;
-        showImage(elementData);
-        showActiveTab(index);
-    })
-})
-
-function showImage(n){
-    for(var i=0;i<imageItem.length;i++){
-        var arr1 =  imageItem[i].dataset.imageType.split(',');
-        (arr1.includes(n))?imageItem[i].classList.remove('hide'):
-        imageItem[i].classList.add('hide');
-        arr1 = [];
-    }
-}
-
-function showActiveTab(m){
-    for(var j=0;j<filter.length;j++){
-        (j==m)?filter[m].classList.add('active'):
-        filter[j].classList.remove('active');            
-    }
-}
-</script>
-
+<script src="script/galeria.js"></script>
 
 <?php include('templates/footer.php'); ?>
 </body>
 </html>
-
-<style>
-    @charset "utf-8";
-/* ==========================================================================
-   1. CSS Reset Code
-   ========================================================================== */
-
-/* 1.1. Eric Meyers Reset
-   http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-   ========================================================================== */
-
-
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-
-/* Force scrollbar */
-html { overflow-y: scroll; }
-
-/* Align radios and text inputs with their label */
-
-input[type='radio'] { vertical-align: text-bottom; }
-
-/* Hand cursor on clickable input elements */
-label,
-input[type='button'],
-input[type='submit'],
-button { cursor: pointer; }
-
-strong {
-  font-weight: bold;
-  font-family: inherit;
-  font-size: inherit;
-}
-li.filter-item.mx-5.active {
-    background: #c18b26;
-    padding: 7px 23px;
-    box-shadow: 0px 0px 23px #0000005e;
-}
-li.filter-item.mx-5 {
-    border: 2px solid #c18b26;
-    padding: 7px 23px;
-}
-li.filter-item.mx-5:hover {
-    background: #c18b26;
-    transition: 0.5s
-}
-em { font-style: italic; }
-
-img {
-  width: 100%;
-  border: 0;
-  vertical-align: middle;
-}
-
-sub,
-sup {
-  vertical-align: baseline;
-  position: relative;
-  font-size: 55%;
-  line-height: 0;
-}
-
-sup { top: -.7em; }
-sub { bottom: -.25em; }
-
-/* 1.2. Clear Fix
-   ========================== */
-
-.cf:before,
-.cf:after {
-  display: table;
-  content: " ";
-}
-
-.cf:after { clear: both; }
-
-.cf { *zoom: 1; }
-
-/*for all*/
-
-a { 
-  display: inline-block;
-  text-decoration: none; 
-}
-
-li {
-  display: inline-block;
-  list-style-type: none;
-}
-/* Common styling */
-.grey { color: #666; }
-.cap { text-transform: capitalize; }
-.up { text-transform: uppercase; }
-.center { text-align: center; }
-.bold { font-weight: bold; }
-.transition { transition: 1s all ease; }
-
-/*for wrapper*/
-.wrapper {
-  max-width: 1350px;
-  width: 95%; 
-  margin: 0 auto;
-}
-/*=================================
-  Header styling starts here
-=================================*/
-
-
-/*=================================
-  Header styling ends here
-=================================*/  
-
-/*=================================
-  main styling starts here
-=================================*/
-
-
-.image-filter a:hover {
-  
-  transition: all .5s ease-in-out;
-}
-
-
-
-
-
-.image-gallary { 
-  display: flex;
-  flex-wrap: wrap;
-  transition: all .5s ease-in-out;
-  margin-bottom: 50px;
-}
-
-.image-gallary li{
-  flex-shrink: 0;
-  width: 33.3%;
-  position: relative;
-  transition: fadeAndScale .8s ease-in-out;    
-  animation-duration: .8s;
-  animation-name: fadeAndScale;
-  animation-timing-function: cubic-bezier(.71,.55,.62,1.4);
-}
-
-.image-gallry img {
-  width: 100%;
-  height: auto;
-}
-
-.overlay {
-  background: #000000cf;
-  position: absolute;
-  top: 0%;
-  left: 0%;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  transition: all .5s ease-in-out;
-}
-
-.overlay span { 
-  color: #FFF;
-  display: block;
-  text-align: center;
-  font-weight: 700;
-  width: 100%;
-}
-
-.title {
-  font-size: 20px;
-  text-transform: capitalize;
-  margin-top: 40px;
-}
-
-.overlay span:nth-of-type(2) { font-size: 12px }
-
-.overlay:before {
-  content: "\f002";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 700;
-  font-size: 25px;
-  position: absolute;
-  top: 40%;
-  left: 0%;
-  padding: 10px;
-  background: #FFF;
-  color: black;
-  opacity: 0;
-}
-
-.overlay:after {
-  content: "\f15b";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 700;
-  font-size: 25px;
-  position: absolute;
-  top: 40%;
-  right: 0%;
-  padding: 10px;
-  background: #FFF;
-  color: black;
-  opacity: 0;
-}
-
-li:hover .overlay{
-  top:0px;
-  left: 0px;
-  opacity: 1;
-  transition: all .5s ease-in-out;
-}
-
-li:hover .overlay:after {
-  right: 35%;
-  transition: all .5s ease-in-out;
-  opacity: 1;
-}
-
-li:hover .overlay:before {
-  left: 35%;
-  transition: all .5s ease-in-out;
-  opacity: 1;
-}
-
-.hide { display: none; }
-
-@keyframes fadeAndScale {
-  from {
-      opacity: 0;
-      transform: scale(.7, .7);
-  }
-  to {
-      opacity: 1;
-      transform: scale(1, 1);
-  }
-}
-
-
-/*=================================
-  main styling ends here
-=================================*/
-
-/*=================================
-  footer styling starts here
-=================================*/ 
-
-
-
-
-
-
-
- /*=================================
-  footer styling ends here
-=================================*/ 
-
-/*media query starts*/
-/*media query for 995px starts here*/
-@media only screen and (max-width: 1200px) {
-  .image-gallary li{
-    flex-shrink: 0;
-    width: 33.3%;
-    position: relative;
-    transition: all .8s ease-in-out;
-  }
-  }  
-  
-  @media only screen and (max-width: 995px) {
-  .image-gallary li{
-    flex-shrink: 0;
-    width: 50%;
-    position: relative;
-    transition: all .8s ease-in-out;
-  }
-  
-  nav li { 
-    margin: 0px 14px; 
-    padding-bottom: 17px;
-  }
-  
-  .wrapper { 
-    width: 72.5%; 
-    min-width: 700px;
-  }
-  .center-list { margin: 0px; }
-  .footer-links { display: block; }
-  .flicker-gallary li { display: block; }
-  
-  .recent-posts { 
-    width: 100%; 
-    margin-bottom: 10px;
-  }
-
-  .recent-posts li {
-    display: block; 
-    width: 100%;
-   }
-  
-   .tags-list { margin-bottom: 10px }
-  }  
-  
-  @media only screen and (max-width: 768px){
-  
-  header { border-bottom: 1px solid #DDD; }
-  header .wrapper { padding:15px 0px; }
-  
-  .wrapper { 
-    width: 92%; 
-    min-width: 340px;
-  }
-  
-  nav ul { display: none; }
-  
-  nav ul {
-    position: absolute;
-    top: 80px;
-    width: 100%;
-    left: 0;
-    background: #1F1F1F;
-    overflow-x: scroll;
-  }
-  
-  nav li {
-    padding: 10px;
-  }
-  
-  .menu { display: block; }  
-  nav:hover > ul { display : block; }  
-  
-  .copyright {
-    display: block;
-    text-align: center;
-  }
-  
-  .flicker-gallary img {
-    width: 60px;
-    height: 60px;
-  }
-  }
-  
-  @media only screen and (max-width: 540px){
-  
-  .wrapper { 
-    width: 85%; 
-    min-width: 220px;
-  }
-  
-  .image-gallary { flex-direction: column; }
-  
-  .image-gallary li {
-    flex-shrink: 0;
-    width: 100%;
-  }
-
-  .image-gallary li a { display: block; }
-  
-  }
-</style>
