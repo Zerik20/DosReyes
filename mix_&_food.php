@@ -279,8 +279,8 @@
         <img class="img-prod-inf-img" src="img/Trago4.jpg" alt="" style="margin-top: 135px; margin-left: 35px; z-index: 2; position: relative;">
     </div>
     <div class="col-md-8 sect-txt-calid bg-grey">
-        <h5 class="subtitulo" style="margin-top: 65px;">Mezcalini</h5>
-        <h2 class="">de Jamaica</h2>
+        <h5 class="subtitulo" style="margin-top: 65px;">Poloma fria</h5>
+        <h2 class="">con mezcal</h2>
         <img class="img-prod-inf-img-movil" src="img/Trago4.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -291,21 +291,20 @@
         <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active p-3" id="nav-home4" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
                 <ul style="padding-left: 0rem;">
-                    <li><p>• 3 cubos de hielo.</p></li><br>
-                    <li><p style="text-align: left;">• 45 mililitros mezcal blanco (de preferencia que sea de agave espadín)</p></li><br>
-                    <li><p style="text-align: left;">• 30 mililitros miel de agave</p></li><br>
-                    <li><p style="text-align: left;">• 6 piezas hojas de hierbabuena previamente lavadas y desinfectadas</p></li><br>
-                    <li><p style="text-align: left;">• 120 mililitros agua mineral</p></li><br>
-                    <li><p style="text-align: left;">• 15 mililitros jugo de limón</p></li><br>
+                    <li><p>• 150 ml de mezcal</p></li><br>
+                    <li><p style="text-align: left;">• 150 ml de jugo de toronja</p></li><br>
+                    <li><p style="text-align: left;">• 60 ml de jugo de limón</p></li><br>
+                    <li><p style="text-align: left;">• 2 pizcas de salsa picante</p></li><br>
+                    <li><p style="text-align: left;">• 2 cdas de agave</p></li><br>
+                    <li><p style="text-align: left;">• 6 tazas de cubos de hielo</p></li><br>
+                    <li><p style="text-align: left;">• 1 limón verde (el zumo)</p></li><br>
                 </ul>
             </div>
             <div class="tab-pane fade" id="nav-profile4" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
             <ul style="padding-left: 1rem; padding-top: 1rem">
-                    <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li><br>
-                    <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li><br>
-                    <li><p style="text-align: left;">3. Agrega el mezcal y mezcla todo con ayuda de la cuchara.</p></li><br>
-                    <li><p style="text-align: left;">4. Rellena el vaso con el agua minera</p></li><br>
-                    <li><p style="text-align: left;">5. Decora con una rama de hierbabuena (opcional).</p></li><br>
+                    <li><p style="text-align: left;">1. Vierte en la licuadora el mezcal, el jugo de toronja, el jugo de limón, la salsa tabasco, la miel de agave y los cubos de hielo. Hazlo en el orden señalado y cierra la tapa.</p></li><br>
+                    <li><p style="text-align: left;">2. Licua empezando con una velocidad baja. Paulatinamente, incrementa la velocidad hasta llegar al tope. Una vez allí, sigue licuando 25 segundos más.</p></li><br>
+                    <li><p style="text-align: left;">3. Sirve en copa grande o vaso clásico y decora con rodajas de lima.</p></li><br>
                 </ul>
             </div>
            
