@@ -92,10 +92,10 @@
             </a>
             </li>
             <li data-image-type="all,elaborados">
-            <a class="text-center w-100" href="#Fixme" title="Image6">
-                <img class="w-100" src="img/NOPALITA.png" alt="Image6">
+            <a class="text-center w-100" href="#Trago6" title="Image6">
+                <img class="w-100" src="img/Trago6.jpg" alt="Image6">
                 <div class="overlay">
-                <span class="title">NOPALITA</span>
+                <span class="title">Trago de durazno, mezcal y romero</span>
                 
                 </div>
             </a>
@@ -229,7 +229,7 @@
                     <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li><br>
                     <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li><br>
                     <li><p style="text-align: left;">3. Agrega el mezcal y mezcla todo con ayuda de la cuchara.</p></li><br>
-                    <li><p style="text-align: left;">4. Rellena el vaso con el agua minera</p></li><br>
+                    <li><p style="text-align: left;">4. Rellena el vaso con el agua mineral</p></li><br>
                     <li><p style="text-align: left;">5. Decora con una rama de hierbabuena (opcional).</p></li><br>
                 </ul>
             </div>
@@ -352,6 +352,50 @@
     <div class="col-md-4 bg-center conte-img-prod" style="background-color:beige;">
         <img class="" src="img/Trago5.jpg" alt="" style="margin-top: 135px; margin-left: -161px;">
     </div>
+</div>
+
+<div id="Trago6" class="row m-0 p-0 w-100">
+    <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/bg-agave.jpg);">
+        <img class="img-prod-inf-img" src="img/Trago6.jpg" alt="" style="margin-top: 135px; margin-left: 35px; z-index: 2; position: relative;">
+    </div>
+    <div class="col-md-8 sect-txt-calid bg-grey">
+        <h5 class="subtitulo" style="margin-top: 65px;">Trago de durazno,</h5>
+        <h2 class="">mezcal y romero</h2>
+        <img class="img-prod-inf-img-movil" src="img/Trago6.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home6" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile6" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home6" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• ¾ de taza de agua</p></li><br>
+                    <li><p style="text-align: left;">• 1/3 de taza de azúcar mascabada</p></li><br>
+                    <li><p style="text-align: left;">• 2 duraznos</p></li><br>
+                    <li><p style="text-align: left;">• 1 cucharada de azúcar blanca</p></li><br>
+                    <li><p style="text-align: left;">• 1 cucharada de jugo de limón</p></li><br>
+                    <li><p style="text-align: left;">• 1 onza de mezcal</p></li><br>
+                    <li><p style="text-align: left;">• 1/2 cucharada de jugo de limón</p></li><br>
+                    <li><p style="text-align: left;">• ½ cucharada de azúcar</p></li><br>
+                    <li><p style="text-align: left;">• Hielos</p></li><br>
+                    <li><p style="text-align: left;">• Refresco de limón</p></li><br>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile6" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Hierve el agua con la azúcar mascabada y las ramitas de romero para hacer un jarabe.</p></li><br>
+                    <li><p style="text-align: left;">2. Muele los duraznos con la cucharada de azúcar blanca y la cucharada de jugo de limón.</p></li><br>
+                    <li><p style="text-align: left;">3. Agrega el mezcal y mezcla todo con ayuda de la cuchara.</p></li><br>
+                    <li><p style="text-align: left;">4. Agrega cuatro cucharadas de la mezcla con duraznos en dos vasos que embonen, añade hielos, tres cucharadas del almíbar de romero, la media cucharada de azúcar, la media cucharada de jugo de limón y el mezcal.</p></li><br>
+                    <li><p style="text-align: left;">5. Agita durante 30 segundos y sirve en un vaso con muchos hielos y agrega un poco de refresco de limón.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    
 </div>
 
 <div class="p-5"></div>
