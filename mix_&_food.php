@@ -168,12 +168,12 @@
         <img class="img-prod-inf-img-movil" src="img/Trago1.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home3" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
-                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile3" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home1" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile1" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
             </div>
         </nav>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active p-3" id="nav-home3" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+            <div class="tab-pane fade show active p-3" id="nav-home1" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
                 <ul style="padding-left: 0rem;">
                     <li><p>• 3 cubos de hielo.</p></li><br>
                     <li><p style="text-align: left;">• 45 mililitros mezcal blanco (de preferencia que sea de agave espadín)</p></li><br>
@@ -183,7 +183,7 @@
                     <li><p style="text-align: left;">• 15 mililitros jugo de limón</p></li><br>
                 </ul>
             </div>
-            <div class="tab-pane fade" id="nav-profile3" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
+            <div class="tab-pane fade" id="nav-profile1" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
             <ul style="padding-left: 1rem; padding-top: 1rem">
                     <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li><br>
                     <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li><br>
@@ -284,12 +284,12 @@
         <img class="img-prod-inf-img-movil" src="img/Trago4.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home2" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
-                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile2" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home4" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile4" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
             </div>
         </nav>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active p-3" id="nav-home2" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+            <div class="tab-pane fade show active p-3" id="nav-home4" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
                 <ul style="padding-left: 0rem;">
                     <li><p>• 3 cubos de hielo.</p></li><br>
                     <li><p style="text-align: left;">• 45 mililitros mezcal blanco (de preferencia que sea de agave espadín)</p></li><br>
@@ -299,7 +299,7 @@
                     <li><p style="text-align: left;">• 15 mililitros jugo de limón</p></li><br>
                 </ul>
             </div>
-            <div class="tab-pane fade" id="nav-profile2" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+            <div class="tab-pane fade" id="nav-profile4" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
             <ul style="padding-left: 1rem; padding-top: 1rem">
                     <li><p style="text-align: left;">1. Coloca en el vaso las hojas de hierbabuena, el jugo de limón y la miel de agave.</p></li><br>
                     <li><p style="text-align: left;">2. Con la ayuda del brazo de mortero machaca las hojas, hasta triturar y percibir el aroma de la hierbabuena.</p></li><br>
