@@ -137,7 +137,7 @@
             </a>
             </li>
             <li data-image-type="all,salados">
-            <a class="text-center w-100" href="#Fixme" title="Image12">
+            <a class="text-center w-100" href="#Comida11" title="Image12">
                 <img class="w-100" src="img/TACOSALPASTOR.png" alt="Image12">
                 <div class="overlay">
                 <span class="title">TACOS AL PASTOR</span>
@@ -146,7 +146,7 @@
             </a>
             </li>
             <li data-image-type="all,salados">
-            <a class="text-center w-100" href="#Fixme" title="Image13">
+            <a class="text-center w-100" href="#Comida12" title="Image13">
                 <img class="w-100" src="img/SIRLOIN.png" alt="Image13">
                 <div class="overlay">
                 <span class="title">SIRLOIN</span>
@@ -541,6 +541,76 @@
                     <li><p style="text-align: left;">3. Retira los ingredientes del fuego y añade la yema de huevo. Agrega sal y pimienta al gusto.</p></li><br>
                     <li><p style="text-align: left;">4. Coloca las papas en la licuadora y la salsa. Procesa y rectifica su sazón.</p></li><br>
                     <li><p style="text-align: left;">5. Sirve el puré en una sola porción. Corta el tocino en cuadritos y esparce sobre las papas.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+
+    <div id="Comida11" class="row m-0 p-0 w-100">
+    <div class="col-md-8 sect-txt-calid">
+        <h5 class="subtitulo" style="margin-top: 65px;">Tacos</h5>
+        <h2 class="">al pastor</h2>
+        <img class="img-prod-inf-img-movil" src="img/TACOSALPASTOR.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home11" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile11" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home11" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• Infusión de  chai</p></li><br>
+                    <li><p style="text-align: left;">• 5 onzas de leche</p></li><br>
+                    <li><p style="text-align: left;">• 2 almendras</p></li><br>
+                    <li><p style="text-align: left;">• 1 onza de mezcal</p></li><br>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile11" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Realizar la infusión de té chai en la leche.</p></li><br>
+                    <li><p style="text-align: left;">2. Agregar en el shaker el mezcal, el jarabe natural y la infusión de leche con té chai y añade hielo.</p></li><br>
+                    <li><p style="text-align: left;">3. Mezcla y sirve en una copa escarchada con canela.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    <div class="col-md-4 bg-center conte-img-prod" style="background-color:beige;">
+        <img class="" src="img/TACOSALPASTOR.png" alt="" style="margin-top: 135px; margin-left: -161px;">
+    </div>
+</div>
+
+<div id="Comida12" class="row m-0 p-0 w-100">
+    <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/bg-agave.jpg);">
+        <img class="img-prod-inf-img" src="img/SIRLOIN.png" alt="" style="margin-top: 135px; margin-left: 35px; z-index: 2; position: relative;">
+    </div>
+    <div class="col-md-8 sect-txt-calid bg-grey">
+        <h5 class="subtitulo" style="margin-top: 65px;"></h5>
+        <h2 class="">SIRLOIN</h2>
+        <img class="img-prod-inf-img-movil" src="img/SIRLOIN.png" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home12" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile12" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home12" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 100 gramos de mantequilla</p></li><br>
+                    <li><p style="text-align: left;">• 4-6 dientes de ajo machacados</p></li><br>
+                    <li><p style="text-align: left;">• 8 filetes de sirloin de 250 gramos cada uno</p></li><br>
+                    <li><p style="text-align: left;">• Sal y pimienta recién molida al gusto</p></li><br>r>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile12" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Precalienta el asador a fuego alto.</p></li><br>
+                    <li><p style="text-align: left;">2. En un sartén chico, derrite la mantequilla a fuego medio-bajo junto con el ajo. Reserva.</p></li><br>
+                    <li><p style="text-align: left;">3. Espolvorea ambos lados de los filetes con sal y pimienta.</p></li><br>
+                    <li><p style="text-align: left;">4. Asa los filetes de 4 a 5 minutos por cada lado, o hasta lograr el término deseado. Una vez listos, colócalos en platos calientes. Barniza cada filete a tu gusto con la mantequilla y deja que reposen de 2 a 3 minutos antes de servir.</p></li><br>
                 </ul>
             </div>
            
