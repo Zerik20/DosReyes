@@ -29,7 +29,7 @@
 <div class="container">
     <h5 class="subtitulo text-center">Mix & Food</h5>
     <h2 class="text-center">Mezcal dos reyes</h2>
-    <p class="text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus inventore, deleniti dignissimos laboriosam magnam iure odio, ipsa ea deserunt aperiam, quasi necessitatibus totam.</p>
+    <p class="text-center">Prepara y acompaña tu mezcal Dos Reyes con las mejores recetas</p>
 
 
 
