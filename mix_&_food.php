@@ -128,10 +128,10 @@
             </a>
             </li>
             <li data-image-type="all,salados">
-            <a class="text-center w-100" href="#Fixme" title="Image11">
-                <img class="w-100" src="img/BOTANAS.png" alt="Image11">
+            <a class="text-center w-100" href="#Comida10" title="Image10">
+                <img class="w-100" src="img/BOTANAS.png" alt="Image10">
                 <div class="overlay">
-                <span class="title">BOTANAS</span>
+                <span class="title">Puré de papa con tocino</span>
                 
                 </div>
             </a>
@@ -507,6 +507,47 @@
     </div>
 </div>
 
+<div id="Comida10" class="row m-0 p-0 w-100">
+    <div class="col-md-4 bg-center conte-img-prod" style="background-image: url(img/bg-agave.jpg);">
+        <img class="img-prod-inf-img" src="img/Comida10.jpg" alt="" style="margin-top: 135px; margin-left: 35px; z-index: 2; position: relative;">
+    </div>
+    <div class="col-md-8 sect-txt-calid bg-grey">
+        <h5 class="subtitulo" style="margin-top: 65px;">Puré de papa</h5>
+        <h2 class="">con tocino</h2>
+        <img class="img-prod-inf-img-movil" src="img/Comida10.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home10" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile10" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home10" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 4 papas grandes cocidas</p></li><br>
+                    <li><p style="text-align: left;">• 3 tiras de tocino frito</p></li><br>
+                    <li><p style="text-align: left;">• 120 mililitros de crema</p></li><br>
+                    <li><p style="text-align: left;">• 20 mililitros de leche</p></li><br>
+                    <li><p style="text-align: left;">• 60 gramos de mantequilla</p></li><br>
+                    <li><p style="text-align: left;">• 2 dientes de ajo picados</p></li><br>
+                    <li><p style="text-align: left;">• 1 yema de huevo</p></li><br>
+                    <li><p style="text-align: left;">• Sal y pimienta</p></li><br>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile10" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Pela la paspas una vez que hayan enfriado y mantén en un recipiente con agua fria.</p></li><br>
+                    <li><p style="text-align: left;">2. Calienta a fuego bajo la mantequilla y agrega los ajos para freírlos por un minuto. Mezcla la leche con la crema e integra cuidadosamente a la mantequilla. Mueve continuamente mientras cocinas por ocho minutos.</p></li><br>
+                    <li><p style="text-align: left;">3. Retira los ingredientes del fuego y añade la yema de huevo. Agrega sal y pimienta al gusto.</p></li><br>
+                    <li><p style="text-align: left;">4. Coloca las papas en la licuadora y la salsa. Procesa y rectifica su sazón.</p></li><br>
+                    <li><p style="text-align: left;">5. Sirve el puré en una sola porción. Corta el tocino en cuadritos y esparce sobre las papas.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    
+</div>
 <div class="p-5"></div>
 <script src="script/galeria.js"></script>
 
