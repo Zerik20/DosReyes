@@ -561,17 +561,26 @@
         <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active p-3" id="nav-home11" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
                 <ul style="padding-left: 0rem;">
-                    <li><p>• Infusión de  chai</p></li><br>
-                    <li><p style="text-align: left;">• 5 onzas de leche</p></li><br>
-                    <li><p style="text-align: left;">• 2 almendras</p></li><br>
-                    <li><p style="text-align: left;">• 1 onza de mezcal</p></li><br>
+                    <li><p>• 1 cebolla blanca</p></li><br>
+                    <li><p style="text-align: left;">• 2 dientes de ajo</p></li><br>
+                    <li><p style="text-align: left;">• 1 chile guajillo</p></li><br>
+                    <li><p style="text-align: left;">• 1/4 taza de jugo de piña</p></li><br>
+                    <li><p style="text-align: left;">• 1/4 taza de vinagre blanco</p></li><br>
+                    <li><p style="text-align: left;">• 1 cucharadita de orégano</p></li><br>
+                    <li><p style="text-align: left;">• 1/2 cucharadita de comino molido</p></li><br>
+                    <li><p style="text-align: left;">• 1/4 cucharadita de pimienta negra</p></li><br>
+                    <li><p style="text-align: left;">• 1 kilo de pulpa de cerdo cortada en filetes</p></li><br>
+                    <li><p style="text-align: left;">• Sal y pimienta para sazonar</p></li><br>
+                    <li><p style="text-align: left;">• 12 tortillas de maíz</p></li><br>
+                    <li><p style="text-align: left;">• Cilantro fresco para decorar</p></li><br>
+                    <li><p style="text-align: left;">• Lima y piña para servir (opcional)</p></li><br>
                 </ul>
             </div>
             <div class="tab-pane fade" id="nav-profile11" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
             <ul style="padding-left: 1rem; padding-top: 1rem">
-                    <li><p style="text-align: left;">1. Realizar la infusión de té chai en la leche.</p></li><br>
-                    <li><p style="text-align: left;">2. Agregar en el shaker el mezcal, el jarabe natural y la infusión de leche con té chai y añade hielo.</p></li><br>
-                    <li><p style="text-align: left;">3. Mezcla y sirve en una copa escarchada con canela.</p></li><br>
+                    <li><p style="text-align: left;">1. Marinado: Mezcla la cebolla, ajo, chile guajillo, jugo de piña, vinagre, orégano, comino, pimienta y sal en un tazón. Agrega la pulpa de cerdo y mezcla bien. Deja marinar durante 4 horas o toda la noche.</p></li><br>
+                    <li><p style="text-align: left;">2. Cocción: Calienta una plancha o sartén a fuego alto. Agrega la carne marinada y cocina durante 3-4 minutos por cada lado, o hasta que esté dorada.</p></li><br>
+                    <li><p style="text-align: left;">3. Preparación: Corta la carne en trozos pequeños y calienta las tortillas en una sartén. Coloca la carne en las tortillas, agrega cebolla, cilantro, lima y piña (si lo deseas). Sirve caliente y disfruta.</p></li><br>
                 </ul>
             </div>
            
