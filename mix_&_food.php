@@ -602,7 +602,7 @@
                     <li><p>• 100 gramos de mantequilla</p></li><br>
                     <li><p style="text-align: left;">• 4-6 dientes de ajo machacados</p></li><br>
                     <li><p style="text-align: left;">• 8 filetes de sirloin de 250 gramos cada uno</p></li><br>
-                    <li><p style="text-align: left;">• Sal y pimienta recién molida al gusto</p></li><br>r>
+                    <li><p style="text-align: left;">• Sal y pimienta recién molida al gusto</p></li><br>
                 </ul>
             </div>
             <div class="tab-pane fade" id="nav-profile12" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
