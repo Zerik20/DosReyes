@@ -129,7 +129,7 @@
             </li>
             <li data-image-type="all,salados">
             <a class="text-center w-100" href="#Comida10" title="Image10">
-                <img class="w-100" src="img/BOTANAS.png" alt="Image10">
+                <img class="w-100" src="img/Comida10.jpg" alt="Image10">
                 <div class="overlay">
                 <span class="title">Puré de papa con tocino</span>
                 
