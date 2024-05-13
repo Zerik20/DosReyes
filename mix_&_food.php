@@ -83,10 +83,10 @@
             </a>
             </li>
             <li data-image-type="all,elaborados">
-            <a class="text-center w-100" href="#Fixme" title="Image5">
-                <img class="w-100" src="img/ÓLEOAMBAR.png" alt="Image5">
+            <a class="text-center w-100" href="#Trago5" title="Image5">
+                <img class="w-100" src="img/Trago5.jpg" alt="Image5">
                 <div class="overlay">
-                <span class="title">ÓLEO AMBAR</span>
+                <span class="title">Margarita de mezcal y sandía</span>
                 
                 </div>
             </a>
@@ -311,6 +311,47 @@
         </div>
     </div>
     
+</div>
+
+<div id="Trago5" class="row m-0 p-0 w-100">
+    <div class="col-md-8 sect-txt-calid">
+        <h5 class="subtitulo" style="margin-top: 65px;">Margarita</h5>
+        <h2 class="">de mezcal y sandia</h2>
+        <img class="img-prod-inf-img-movil" src="img/Trago5.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home5" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile5" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home5" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 4 rodajas finas de chile jalapeño (sin semillas)</p></li><br>
+                    <li><p style="text-align: left;">• 2 tazas de trozos de sandía</p></li><br>
+                    <li><p style="text-align: left;">• 1 hielo</p></li><br>
+                    <li><p style="text-align: left;">• 1 ½ taza de agua de soda</p></li><br>
+                    <li><p style="text-align: left;">• ½ taza de mezcal</p></li><br>
+                    <li><p style="text-align: left;">• 2 limones (el zumo de uno y el otro para decorar)</p></li><br>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile5" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Licua las piezas de sandía. Hazlo hasta que sea un jugo.</p></li><br>
+                    <li><p style="text-align: left;">2. Cuela el zumo de sandía. Vierte parte del líquido en una hielera y reserva la otra parte para las bebidas. Espera hasta que los cubos se congelen antes de continuar.</p></li><br>
+                    <li><p style="text-align: left;">3. Coloca los hielos de sandía en dos vasos.</p></li><br>
+                    <li><p style="text-align: left;">4. Vierte ¾ del zumo de sandía reservado y agrega el jugo de limón.</p></li><br>
+                    <li><p style="text-align: left;">5. Introduce dos rebanadas de jalapeño en cada vaso.</p></li><br>
+                    <li><p style="text-align: left;">6. Agrega el agua de soda y finaliza con el mezcal.</p></li><br>
+                    <li><p style="text-align: left;">7. Sirve con rodajas de limón.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    <div class="col-md-4 bg-center conte-img-prod" style="background-color:beige;">
+        <img class="" src="img/Trago5.jpg" alt="" style="margin-top: 135px; margin-left: -161px;">
+    </div>
 </div>
 
 <div class="p-5"></div>
