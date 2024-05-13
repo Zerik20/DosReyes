@@ -101,10 +101,10 @@
             </a>
             </li>
             <li data-image-type="all,dulces">
-            <a class="text-center w-100" href="#Fixme" title="Image8">
-                <img class="w-100" src="img/chocolate.png" alt="Image8">
+            <a class="text-center w-100" href="#Trago7" title="Image7">
+                <img class="w-100" src="img/Trago7.jpg" alt="Image7">
                 <div class="overlay">
-                <span class="title">CHOCOLATES</span>
+                <span class="title">Mezcalini de Zarzamora</span>
                 
                 </div>
             </a>
@@ -396,6 +396,43 @@
         </div>
     </div>
     
+</div>
+
+<div id="Trago7" class="row m-0 p-0 w-100">
+    <div class="col-md-8 sect-txt-calid">
+        <h5 class="subtitulo" style="margin-top: 65px;">Mezcalini</h5>
+        <h2 class="">de Zarzamora</h2>
+        <img class="img-prod-inf-img-movil" src="img/Trago7.jpg" alt="" style="margin-top: 135px; margin-left: -161px; display:none;">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active text-black" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home7" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Ingredientes</button>
+                <button class="nav-link text-black" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile7" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Preparación</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active p-3" id="nav-home7" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <ul style="padding-left: 0rem;">
+                    <li><p>• 2 onzas de mezcal</p></li><br>
+                    <li><p style="text-align: left;">• 4 zarzamoras frescas</p></li><br>
+                    <li><p style="text-align: left;">• ½ onza de jarabe natural</p></li><br>
+                    <li><p style="text-align: left;">• ½ onza  de licor de naranja</p></li><br>
+                    <li><p style="text-align: left;">• ½ onza  de jugo de zarzamora</p></li><br>
+                    <li><p style="text-align: left;">• Hielo</p></li><br>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-profile7" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0" style="padding-right: 3rem;">
+            <ul style="padding-left: 1rem; padding-top: 1rem">
+                    <li><p style="text-align: left;">1. Mezcla en un shaker o en dos vasos.</p></li><br>
+                    <li><p style="text-align: left;">2. Que embonen todos los ingredientes.</p></li><br>
+                    <li><p style="text-align: left;">3. Puedes darle un twist con vaciarlo en la licuadora para obtener un frappé.</p></li><br>
+                </ul>
+            </div>
+           
+        </div>
+    </div>
+    <div class="col-md-4 bg-center conte-img-prod" style="background-color:beige;">
+        <img class="" src="img/Trago7.jpg" alt="" style="margin-top: 135px; margin-left: -161px;">
+    </div>
 </div>
 
 <div class="p-5"></div>
