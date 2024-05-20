@@ -102,7 +102,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center">
-                <img class="" src="img/mzkl.png" alt="" style="width: 500px;">
+                <img class="" src="img/mzkl.png" alt="">
             </div>
             <div class="col-md-6 d-flex align-items-center">
                 <div>
