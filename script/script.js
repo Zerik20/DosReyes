@@ -20,6 +20,8 @@ window.onload = function() {
     if (ageVerified !== "true") {
         // Si la cookie no existe o es false, muestra la tarjeta de verificación de edad
         document.getElementById('ageVerification').style.display = 'block';
+        // Deshabilita el scroll de la página
+        document.body.classList.add('modal-open');
     }
 };
 

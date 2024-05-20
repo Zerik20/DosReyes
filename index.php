@@ -10,18 +10,19 @@
     <link rel="stylesheet" href="style/styles.css"> <!-- Agrega estilos personalizados si lo deseas -->
 </head>
 <body>
-<?php include('templates/header.php'); ?>
-<!--script src="idiomas/leng.js"></script-->
 <!-- Tarjeta de verificación de edad -->
 <div id="ageVerification" class="modal">
-    <div class="modal-content">
-        <h2>¿Eres mayor de edad?</h2>
-        <div class="options">
-            <button onclick="continueToSite()">Sí</button>
-            <button onclick="leaveSite()">No</button>
+        <div class="modal-content">
+            <img src="img/logo-blanco2.png" alt="Logo" class="logo">
+            <h2>¿Eres mayor de edad?</h2>
+            <div class="options">
+                <button onclick="continueToSite()">Sí</button>
+                <button onclick="leaveSite()">No</button>
+            </div>
         </div>
     </div>
-</div>
+<?php include('templates/header.php'); ?>
+<!--script src="idiomas/leng.js"></script-->
 
 
 
