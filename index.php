@@ -102,12 +102,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center">
-                <img class="" src="img/mzkl.png" alt="">
+                <img class="" src="img/mzkl.png" alt="" style="width: 500px;">
             </div>
             <div class="col-md-6 d-flex align-items-center">
                 <div>
-                    <h5 class="subtitulo">Sobre</h5>
-                    <h2>Nosotros</h2>
+                    <h5 class="subtitulo" style="text-align: center;">Sobre</h5>
+                    <h2 style="text-align: center;">Nosotros</h2>
                     <p style= "text-align:center;">¡Bienvenidos a 2 Reyes!</p>
                     <p style= "text-align: justify;">
                         Somos una destilería de mezcal artesanal fundada en el corazón de Oaxaca, México. Nuestra pasión por la excelencia se refleja en cada gota de mezcal que producimos.
@@ -121,10 +121,11 @@
                     <p style= "text-align: justify;">
                         Colaboramos estrechamente con agricultores y artesanos locales, contribuyendo al desarrollo sostenible y fortaleciendo nuestras raíces culturales.
                     </p>
-                    <p style= "text-align: justify;">
-                        Te invitamos a descubrir la magia ¡Salud
+                    <p style= "text-align: center; color: #c08a16;">
+                        Te invitamos a descubrir la magia ¡Salud!
                     </p>
-                    <p style= "text-align:center;">Atentamente Yolanda Taboada 3ª Genracion</p>
+                    <br>
+                    <p style= "text-align:center; font-size:25px; ">Atentamente Yolanda Taboada 3ª Genracion</p>
                 </div>
             </div>
         </div>
