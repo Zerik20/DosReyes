@@ -177,3 +177,17 @@
 <script src="script/script.js"></script> <!-- Agrega tu archivo JavaScript -->
 </body>
 </html>
+
+<style>
+    @media only screen and (max-width: 768px) {
+    #portada {
+        height: 100vh;
+    }
+
+    #portada video {
+        height: 100vh;
+        width: auto; /* Asegura que el ancho se ajuste al alto sin distorsionar */
+    }
+}
+
+</style>
