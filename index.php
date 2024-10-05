@@ -34,17 +34,26 @@
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-        <div id="portada" class="bg-center" style="background-image: url(img/portada5.jpg);">
-            <div class="py-5 overlayb d-flex justify-content-start align-items-end">
-                <div class="container ps-5">
-                    <h5 class="subtitulo">Descubre el Legado</h5>
-                    <h2 class="text-white tit-slider" style="font-size: 57px;">Mezcal <br> Artesanal</h2>
-                </div>
-                
+  <div class="carousel-item active">
+    <div id="portada" class="bg-center colo" style="position: relative; overflow: hidden;">
+        <video src="img/Video/Mezcal.mp4" autoplay loop muted playsinline style="width: 100%; height: auto; object-fit: cover;">
+            Tu navegador no soporta la reproducción de video.
+        </video>
+        
+        <!-- Capa de oscurecimiento -->
+        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4); z-index: 1;"></div>
+
+        <!-- Contenido del overlay -->
+        <div class="py-5 overlayb d-flex justify-content-start align-items-end" style="position: relative; z-index: 2;">
+            <div class="container ps-5">
+                <h5 class="subtitulo">Descubre el Legado</h5>
+                <h2 class="text-white tit-slider" style="font-size: 57px;">Mezcal <br> Artesanal</h2>
             </div>
         </div>
     </div>
+</div>
+
+
     <div class="carousel-item">
         <div id="portada" class="bg-center" style="background-image: url(img/contacto.jpg);">
             <div class="py-5 overlayb d-flex justify-content-start align-items-end">
